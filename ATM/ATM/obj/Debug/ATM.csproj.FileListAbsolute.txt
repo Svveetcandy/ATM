@@ -1,0 +1,12 @@
+E:\2 КУРС\ЯП\ATM\ATM\bin\Debug\ATM.exe.config
+E:\2 КУРС\ЯП\ATM\ATM\bin\Debug\ATM.exe
+E:\2 КУРС\ЯП\ATM\ATM\bin\Debug\ATM.pdb
+E:\2 КУРС\ЯП\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+E:\2 КУРС\ЯП\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+E:\2 КУРС\ЯП\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+E:\2 КУРС\ЯП\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\2 КУРС\ЯП\ATM\ATM\obj\Debug\ATM.exe
+E:\2 КУРС\ЯП\ATM\ATM\obj\Debug\ATM.pdb
+E:\2 КУРС\ЯП\ATM\ATM\obj\Debug\ATM.AuthorizationForm.resources
+E:\2 КУРС\ЯП\ATM\ATM\obj\Debug\ATM.MainMenuForm.resources
+E:\2 КУРС\ЯП\ATM\ATM\obj\Debug\ATM.WithdrawMoneyForm.resources
